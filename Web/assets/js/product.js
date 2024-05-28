@@ -40,5 +40,5 @@ document.addEventListener('DOMContentLoaded', function() {
 
 document.getElementById("cartLink").addEventListener("click",function(event){
     event.preventDefault();
-    window.location.href="../html/cart.html"
+    window.location.href="../Web/cart.html"
 })
